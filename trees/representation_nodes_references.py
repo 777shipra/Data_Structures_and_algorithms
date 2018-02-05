@@ -1,6 +1,6 @@
 class BinaryTree(object):
 
-    def __init(self,rootObj):
+    def __init__(self,rootObj):
 
         self.key=rootObj
         self.LeftChild=None
