@@ -12,4 +12,4 @@ def trimBST(tree, minVal, maxVal):
         return tree.right
 
     if tree.val > maxVal:
-        return tree.left 
+        return tree.left
